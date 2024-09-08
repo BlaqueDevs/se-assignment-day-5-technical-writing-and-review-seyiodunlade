@@ -1,0 +1,32 @@
+1. Having an understanding of the expertise of the audience is very key in presentation. A tech expert will be able to grasp the terms frequently used for example REST api while a regular person may not be able to. Thus breaking down such key words/terms, use of clear and simple words and using visual representation (such as images or graphs) will go a long way to explaining such. 
+
+2. Strategies to tailor content to different audience types include structuring the message appropriately, conducting research on the audience, understanding the preferences of the reader, choosing the platforms for releasing such information.
+
+3. The existing knowledge of the audience can be gauged through interviews, using interactive elements such as polls, quizzes or games. The audience can also be gauged through questionnaires and research.
+
+4. To ensure my content is accessible to audience with limited technical knowledge, all unfamiliar terms will be explained and acronyms will be avoided. Visual representation (such as pictures) and clear examples will be used as well.
+
+5. It is important to use plain language as it uncertain that all the readers will be able to understand such language thus forming a communication barrier.
+
+6. Example - To boot up the computer we use the power button. This sentence may be easily understand by some users but not everyone will be able to comprehend such. It is easier to use the words "turn on" in place of "boot up".
+
+7. Examples and visuals are very important because they help in comprehending complex concepts faster. Examples are great because they can be used to relate certain concepts with real life scenarios. Visuals can also help in simplifying complex concepts by presenting them in a structured format.
+
+8. Flow charts, bar charts, pie charts, tables, line graphs, drawings, diagrams and illustrations.
+
+9. Headings and subheading help in structuring the information being passed.
+
+10. The best practices for headings and subheadings include 
+   i. Use descriptive headings.
+  ii. Keep headings concise and simple.
+ iii. Do not use questions as headings.
+  iv. Use proper capitalization
+
+11. The following should be included in a readme of a project:
+- Project title
+ - Project Description
+ - Table of contents (this is not mandatory)
+ - How to install and run the project
+ - How to use the project
+
+12. The purpose and key features of the products can be easily conveyed by addressing the problems faced by the end-users.
